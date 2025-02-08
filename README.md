@@ -24,3 +24,12 @@ Correct & Wrong Sound Effects<br>
 Heartbeat Sound for last 10 seconds<br>
 Game Over Music<br>
 📸 Screenshots<br>
+
+🏠 Home Screen<br>
+![Home Screen](screenshots/screenshot1.png)
+<br>
+🎮 Gameplay<br>
+![Gameplay](screenshots/screenshot2.png)
+<br>
+💀 Game Over<br>
+![Game Over](screenshots/screenshot3.png)
